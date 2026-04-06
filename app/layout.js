@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "CloudEA - Strategy & Architecture",
+  title: "CloudEA - AI-enabled Enterprise Strategy & Architecture",
   description:
     "AI-enabled Enterprise Architecture. Executive advisory in enterprise nad business architecture, trusted data foundations, and business capability mapping. We help organizations turn strategy into decisions and execution.",
 };
