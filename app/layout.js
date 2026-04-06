@@ -1,7 +1,7 @@
 export const metadata = {
   title: "CloudEA - Strategy & Architecture",
   description:
-    "Executive advisory in enterprise architecture, trusted data foundations, business capability mapping, and strategy execution.",
+    "AI-enabled Enterprise Architecture. Executive advisory in enterprise nad business architecture, trusted data foundations, and business capability mapping. We help organizations turn strategy into decisions and execution.",
 };
 
 import "./globals.css";
