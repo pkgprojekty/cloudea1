@@ -9,7 +9,7 @@ export default function CompanyWebsite() {
   const content = useMemo(
     () => ({
       pl: {
-        brand: "CloudEA - Strategy & Architecture",
+        brand: "CloudEA - AI-enabled Enterprise Strategy & Architecture",
         tagline: "Executive advisory • Enterprise Architecture • Trusted Data Foundations",
         nav: {
           sectors: "Sektory",
@@ -131,7 +131,7 @@ export default function CompanyWebsite() {
         learnMore: "Dowiedz się więcej",
       },
       en: {
-        brand: "CloudEA - Strategy & Architecture",
+        brand: "CloudEA - AI-enabled Enterprise Strategy & Architecture",
         tagline: "Executive advisory • Enterprise Architecture • Trusted Data Foundations",
         nav: {
           sectors: "Sectors",
@@ -446,7 +446,7 @@ export default function CompanyWebsite() {
             <div className="space-y-5 text-sm text-white/72">
               <div>
                 <div className="text-white/45">{t.companyLabel}</div>
-                <div className="mt-1 text-lg text-white">CloudEA - Strategy &amp; Architecture</div>
+                <div className="mt-1 text-lg text-white">CloudEA - AI-enabled Strategy &amp; Architecture</div>
               </div>
               <div>
                 <div className="text-white/45">{t.emailLabel}</div>
@@ -470,7 +470,7 @@ export default function CompanyWebsite() {
 
       <footer className="bg-[#111111] px-6 py-6 text-sm text-white/40">
         <div className="mx-auto flex max-w-7xl flex-col gap-3 md:flex-row md:items-center md:justify-between">
-          <div>© 2026 CloudEA - Strategy &amp; Architecture. {t.footer}</div>
+          <div>© 2026 CloudEA - AI-enabled Enterprise Strategy &amp; Architecture. {t.footer}</div>
           <div>{t.policy}</div>
         </div>
       </footer>
