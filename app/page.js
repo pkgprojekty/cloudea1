@@ -85,7 +85,7 @@ export default function CompanyWebsite() {
           {
             value: "Board",
             label:
-              "Business Capability Map jako język rozmowy z zarządem i CIO. Wspólne zrozumienie tych perspektyw jest czynnikiem umożliwiającym przełożenie strategii biznesowej na mierzalne decyzje inwestycyjne, zapewniając pełną przejrzystość wpływu inicjatyw na wynik biznesowy oraz kontrolę nad ryzykiem i złożonością organizacji.",
+              "Business Capability Map jako wspólny język z zarządem i CIO. Każda organizacja powinna posiadać obraz "Company-on-a-page" aby móc ocenić aktualny oraz oczekiwany poziom możliwości biznesowych",
           },
           {
             value: "Data",
