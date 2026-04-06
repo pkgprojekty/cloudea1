@@ -85,7 +85,7 @@ export default function CompanyWebsite() {
           {
             value: "Board",
             label:
-              "Business Capability Map jako wspólny język z zarządem i CIO. Każda organizacja powinna posiadać obraz "Company on a page" aby móc ocenić aktualny oraz oczekiwany poziom możliwości biznesowych",
+              "Business Capability Map jako wspólny język z zarządem i CIO. Każda organizacja powinna posiadać obraz "Company on a page" aby móc ocenić aktualny oraz oczekiwany poziom możliwości biznesowych.",
           },
           {
             value: "Data",
